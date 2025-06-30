@@ -1,6 +1,8 @@
-# CarboNeXT and CarboFormer: Dual Semantic Segmentation Architectures for Detecting and Quantifying Carbon Dioxide Emissions Using Optical Gas Imaging
+# CarboNeXT and CarboFormer: Dual Semantic Segmentation Architectures for Detecting and Quantifying CO₂ Emissions Using OGI
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.05360-b31b1b.svg)](https://arxiv.org/abs/2506.05360)
+<a href="https://arxiv.org/abs/2506.05360" target="_blank">
+  <img src="https://img.shields.io/badge/arXiv-2506.05360-b31b1b.svg" alt="arXiv">
+</a>
 
 ## 📝 Overview
 
@@ -14,10 +16,10 @@ We introduce CarboNeXT and CarboFormer, two novel semantic segmentation framewor
 
 ## 🏗️ Model Framework
 
-### CarboNeXT Architecture
+### CarboNeXT
 ![CarboNeXT Framework](figure/carbonext.png)
 
-### CarboFormer Architecture  
+### CarboFormer  
 ![CarboFormer Framework](figure/carbonformer.png)
 
 ## 🚀 Getting Started
