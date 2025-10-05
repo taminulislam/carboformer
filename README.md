@@ -1,8 +1,9 @@
 # CarboFormer: A Lightweight Semantic Segmentation Architecture for Efficient CO₂ Detection Using OGI
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.05360-b31b1b.svg)](https://arxiv.org/abs/2506.05360)
-[![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/taminulislam/carbonext_and_carboformer)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.05360-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.05360)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg?logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2506.05360)
+[![Code](https://img.shields.io/badge/Code-GitHub-black.svg?logo=github&logoColor=white)](https://github.com/taminulislam/carbonext_and_carboformer)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?logo=opensourceinitiative&logoColor=white)](#license)
 <!-- 
 ## Overview
 
@@ -15,7 +16,7 @@ We introduce CarboFormer, a lightweight semantic segmentation framework for Opti
 - Effectiveness in challenging low-flow scenarios for CO₂ emission analysis
 - Optimized for deployment on resource-constrained platforms like drones -->
 
-## Architecture
+<!-- ## Architecture -->
 
 ![CarboFormer Framework](figure/carbonformer.png)
 
