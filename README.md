@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2506.05360-b31b1b.svg)](https://arxiv.org/abs/2506.05360)
 [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/taminulislam/carbonext_and_carboformer)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
-
+<!-- 
 ## Overview
 
 We introduce CarboFormer, a lightweight semantic segmentation framework for Optical Gas Imaging (OGI), designed to detect and quantify CO₂ emissions across diverse applications. Our approach integrates a Mix Vision Transformer (MViT) backbone with Light Harmonic Aggregation Module (LightHAM) for efficient multi-scale feature processing to effectively model both local details and global relationships in gas plume imagery.
@@ -13,7 +13,7 @@ We introduce CarboFormer, a lightweight semantic segmentation framework for Opti
 - **High Accuracy**: 84.88% mIoU on CCR dataset and 92.98% mIoU on RTA dataset
 - Real-time monitoring capabilities for environmental sensing and precision livestock management
 - Effectiveness in challenging low-flow scenarios for CO₂ emission analysis
-- Optimized for deployment on resource-constrained platforms like drones
+- Optimized for deployment on resource-constrained platforms like drones -->
 
 ## Architecture
 
