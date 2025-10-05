@@ -4,7 +4,7 @@ _base_ = [
 
 crop_size = (512, 512)
 data_preprocessor = dict(size=crop_size)
-checkpoint = './checkpoint/carbonext/iter_160000.pth'  # noqa
+checkpoint = './checkpoint/carboformer/iter_160000.pth'  # noqa
 model = dict(
     data_preprocessor=data_preprocessor,
     backbone=dict(init_cfg=dict(type='Pretrained', checkpoint=checkpoint)),
