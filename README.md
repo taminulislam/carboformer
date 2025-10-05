@@ -17,7 +17,7 @@ We introduce CarboFormer, a lightweight semantic segmentation framework for Opti
 
 ## Architecture
 
-![CarboFormer Framework](figure/carboformer.png)
+![CarboFormer Framework](figure/carbonformer.png)
 
 CarboFormer offers an efficient lightweight design with:
 - **Mix Vision Transformer (MViT)** backbone for hierarchical feature extraction
